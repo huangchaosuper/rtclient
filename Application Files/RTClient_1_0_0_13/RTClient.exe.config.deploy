@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="AppKey" value="1484332557"/>
+    <add key="AppSecret" value="ddd01a3d4f19c984d598105f3f13893e"/>
+    <add key="CallbackUrl" value="ruantengtech.com"/>
+    <add key="UserName" value=""/>
+    <add key="Password" value=""/>
+  </appSettings>
+</configuration>
